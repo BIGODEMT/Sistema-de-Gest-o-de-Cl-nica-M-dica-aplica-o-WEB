@@ -1,7 +1,9 @@
 Descrição do Projeto: Sistema de Gestão de Clínica Médica
 
 Resumo:
-O projeto "Sistema de Gestão de Clínica Médica" tem como objetivo criar uma aplicação web para gerenciar o cadastro e a consulta de médicos e pacientes de uma clínica. A aplicação permite registrar informações essenciais, consultar dados armazenados e manter um controle eficiente sobre os profissionais de saúde e seus pacientes.
+O projeto "Sistema de Gestão de Clínica Médica" tem como objetivo criar uma aplicação web para gerenciar o cadastro e a 
+consulta de médicos e pacientes de uma clínica. A aplicação permite registrar informações essenciais, consultar dados
+armazenados e manter um controle eficiente sobre os profissionais de saúde e seus pacientes.
 
 Funcionalidades Principais:
 
@@ -32,4 +34,5 @@ Backend: Java com Servlets para gerenciamento de dados e operações CRUD.
 Banco de Dados: MySQL para armazenar informações de médicos e pacientes.
 Servidor de Aplicação: Apache Tomcat para hospedar a aplicação web.
 Público-Alvo:
-Administradores e recepcionistas de clínicas médicas que precisam de um sistema prático para gerenciar informações de profissionais e pacientes de forma segura e organizada.
+Administradores e recepcionistas de clínicas médicas que precisam de um sistema prático para gerenciar informações 
+de profissionais e pacientes de forma segura e organizada.
