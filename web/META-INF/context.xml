@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ClinicaMedica">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxIdle="10" maxTotal="20" maxWaitMillis="-1" name="jdbc/clinicamedica" password="9341" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/clinicamedica" username="root"/>
+</Context>
